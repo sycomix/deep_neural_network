@@ -1,5 +1,5 @@
 # Deep Neural Network Project
-===============================
+
 Artificial Intelligence (AI) projects using deep neural network and deep learning techniques
 
 version-control/deep_learning/deep_neural_network <br>
